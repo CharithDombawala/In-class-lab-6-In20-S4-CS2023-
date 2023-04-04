@@ -80,7 +80,7 @@ Pop();
 Display();
 Push(4);
 Push(30);
-Push(3);2.question
+Push(3);
 Push(1);
 Display();
 auto stop1 = high_resolution_clock::now();
